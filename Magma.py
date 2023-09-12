@@ -1,4 +1,5 @@
 print("Welcome to Magma!! Full release") # says hello to user
+print("©Pylearner1234567890")
 # Function to encrypt text using a Caesar cipher
 def encrypt_text(key, plaintext):
     encrypted_text = []
